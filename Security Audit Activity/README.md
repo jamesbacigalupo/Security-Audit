@@ -18,6 +18,7 @@ This project is a practical security audit completed as part of the \*\*Google C
 
 \* \*\*Framework Used:\*\* NIST Cybersecurity Framework (CSF) / NIST SP 800-53
 
+* **Fictional Company Name:** [Botium Toys] (Utilized strictly as a simulated case study for this audit)
 
 
 \## 📂 Repository Structure
